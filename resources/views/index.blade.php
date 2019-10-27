@@ -43,7 +43,7 @@
             <a class="menu-toggle" href="#"><span>Menu</span></a>
 
             <div class="logo">
-                <a href="index.html">Menu</a>
+                <a  href="#intro">home</a>
             </div>
 
             <nav id="main-nav-wrap">
@@ -54,7 +54,7 @@
                     <li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
                     <li><a class="smoothscroll"  href="#services" title="">Services</a></li>
                     <li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
-                    <li><a href="styles.html" title="">Style Demo</a></li>
+{{--                    <li><a href="styles.html" title="">Style Demo</a></li>--}}
                 </ul>
             </nav>
         </div> <!-- /top-bar -->
@@ -89,11 +89,11 @@
     </div> <!-- /intro-content -->
 
     <ul class="intro-social">
-        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-{{--        <li><a href="#"><i class="fa fa-behance"></i></a></li>--}}
+        <li><a href="https://www.facebook.com/fouzansaleem"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"><i class="fa fa-linkedin"></i></a></li>
 {{--        <li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
 {{--        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://www.instagram.com/fouzansaleem/"><i class="fa fa-instagram"></i></a></li>
     </ul> <!-- /intro-social -->
 
 </section> <!-- /intro -->
@@ -237,13 +237,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>UI Designer</h3>
-                        <p>July 2015 - Present</p>
+                        <h3>Backend Developer</h3>
+                        <p>April 2019 - August 2019</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Awesome Studio</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                        <h4>MADD Solutions</h4>
+                        <p>Work as Laravel backend internee hands on experience and learn a lot of advance things that make to enhance my skills</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -255,13 +255,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Front-end Developer</h3>
-                        <p>July 2014 - June 2015</p>
+                        <h3>Teacher Assistant</h3>
+                        <p>September 2017 - February 2018</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Super Cool Agency</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>UMT </h4>
+                        <p>Teaching Skills</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -273,13 +273,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Web Designer</h3>
-                        <p>May 2013 - June 2014</p>
+                        <h3>Social Work</h3>
+                        <p>March 2016 - April 2016</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Great Designs Studio</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>SOS Children village</h4>
+                        <p> Team lead of collecting donation and help the SOS Children.</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -309,13 +309,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Master Degree</h3>
-                        <p>July 2015 - Present</p>
+                        <h3>Bachelor Degree</h3>
+                        <p>October 2013 - December 2018</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>University of Life</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                        <h4>University of Management and Technology</h4>
+                        <p>Enjoy and chill Life </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -327,13 +327,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Bachelor Degree</h3>
-                        <p>July 2014 - June 2015</p>
+                        <h3>Intermediate</h3>
+                        <p>August 2011 - May 2013</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>State Design University</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>Superior Group of Colleges</h4>
+                        <p>FSC pre-engineering hogi</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -345,13 +345,13 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Bachelor Degree</h3>
-                        <p>May 2013 - June 2014</p>
+                        <h3>Matric</h3>
+                        <p>March 2001 - March 2011</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Design College</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>Sheikh Zayed Public School</h4>
+                        <p>School life must life</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -883,13 +883,13 @@
     <div class="row section-intro">
         <div class="col-twelve">
 
-            <h5>Contact</h5>
+            <h5>Get in Touch</h5>
             <h1>I'd Love To Hear From You.</h1>
 
             <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
         </div>
-    </div> <!-- /section-intro -->
+  {{----  </div> <!-- /section-intro -->
 
     <div class="row contact-form">
 
@@ -937,7 +937,7 @@
         </div> <!-- /col-twelve -->
 
     </div> <!-- /contact-form -->
-
+--}}
     <div class="row contact-info">
 
         <div class="col-four tab-full">
@@ -949,9 +949,9 @@
             <h5>Where to find me</h5>
 
             <p>
-                1600 Amphitheatre Parkway<br>
-                Mountain View, CA<br>
-                94043 US
+               House no.12 Jinnah Park <br>
+                Multan Road, Lhr<br>
+                54790 Pak
             </p>
 
         </div>
@@ -964,8 +964,8 @@
 
             <h5>Email Me At</h5>
 
-            <p>someone@kardswebsite.com<br>
-                info@kardswebsite.com
+            <p>fouzanvictor@gmail.com<br>
+                fs94pk@gmail.com
             </p>
 
         </div>
@@ -978,14 +978,15 @@
 
             <h5>Call Me At</h5>
 
-            <p>Phone: (+63) 555 1212<br>
-                Mobile: (+63) 555 0100<br>
-                Fax: (+63) 555 0101
+            <p>Phone: (+92) 30167-85565<br>
+                Mobile: (+92) 33296-33733<br>
+{{--                Fax: (+63) 555 0101--}}
             </p>
 
         </div>
 
     </div> <!-- /contact-info -->
+
 
 </section> <!-- /contact -->
 
@@ -994,15 +995,15 @@
 ================================================== -->
 
 <footer>
-    <div class="row">
+    <div  class="row">
 
         <div class="col-six tab-full pull-right social">
 
             <ul class="footer-social">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+{{--                <li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+{{--                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
             </ul>
 
@@ -1010,9 +1011,9 @@
 
         <div class="col-eight tab-full">
             <div class="copyright">
-                <span>© Copyright 2018 </span>
-                <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>
-                <span>Distributed by <a href="https://themewagon.com/">themewagon</a></span>
+                <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.all rights reserved</span>
+{{--                <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>--}}
+{{--                <span>Distributed by <a href="https://themewagon.com/">themewagon</a></span>--}}
             </div>
         </div>
 
