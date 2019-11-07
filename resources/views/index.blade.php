@@ -7,7 +7,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>FS</title>
+    <title>Fouzan</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -43,7 +43,7 @@
             <a class="menu-toggle" href="#"><span>Menu</span></a>
 
             <div class="logo">
-                <a  href="#intro">home</a>
+                <a  href="#intro"></a>
             </div>
 
             <nav id="main-nav-wrap">
@@ -54,7 +54,6 @@
                     <li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
                     <li><a class="smoothscroll"  href="#services" title="">Services</a></li>
                     <li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
-{{--                    <li><a href="styles.html" title="">Style Demo</a></li>--}}
                 </ul>
             </nav>
         </div> <!-- /top-bar -->
@@ -113,11 +112,11 @@
 
                 <img src="images/profile-pic.jpg" alt="Profile Picture">
 
-                <p class="lead">Graduated in December 2018 as a Computer Science bachelor from University of Management and Technology lahore.
-                    Looking forward to learn a lot about everything that's related to computer.
-                    As a professional, I have great teamwork skills, I always have new ideas, and
-                    I'm always open to listen to other's opinions. Also, I'm focused and organized with my projects.
-                    My main field of study is Web Development and Graphic Designing.</p>
+                <p class="lead">
+                    Hello! I'm Fouzan, a software engineer,I'm a creative Laravel webdeveloper, I develop exceptional high-quality websites and web applications
+                    that provide perceptive, pixel-perfect user friendly interfaces with efficient and modern backends.
+
+                </p>
             </div>
 
         </div>
@@ -128,10 +127,13 @@
         <div class="col-six tab-full">
 
             <h3>Profile</h3>
-            <p>I have the knowledge of each domain like Programming,  Databases, Assembly language, Algorithms, Web,
-                Computer Vision , C/C++ , JAVA ,php , Html.
-                If I hired by you I will be responsible to complete the task within the stipulated time frame
-                and with utmost confidence. Outsource me for your project and I promise to bring in the best output.</p>
+            <p>
+                I'm an allround web developer.I'm a programmer with good knowledge of back-end techniques.
+                <br> I love spending time on fixing little details and optimizing web apps.
+                I always motivated and willing to learn new things.
+                Also I like working in a team, you'll learn faster and much more.
+                As the saying goes: 'two heads are better than one'.
+            </p>
 
             <ul class="info-list">
                 <li>
@@ -144,7 +146,7 @@
                 </li>
                 <li>
                     <strong>Job:</strong>
-                    <span>Freelancer, Backend Developer</span>
+                    <span>Freelance, Back-end Developer</span>
                 </li>
                 <li>
                     <strong>Website:</strong>
@@ -162,29 +164,41 @@
         <div class="col-six tab-full">
 
             <h3>Skills</h3>
-            <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+
+            <p>
+{{--                Without knowledge action is uselesss and knowledge without action is futile.--}}
+                “The mark of higher education isn’t the knowledge you accumulate in your head.
+                It’s the skills you gain about how to learn.” <br> – Adam Grant -
+            </p>
 
             <ul class="skill-bars">
                 <li>
-                    <div class="progress percent90"><span>85%</span></div>
-                    <strong>Laravel</strong>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>Laravel Framework</strong>
                 </li>
                 <li>
-                    <div class="progress percent85"><span>80%</span></div>
+                    <div class="progress percent80"><span>80%</span></div>
                     <strong>Wordpress</strong>
                 </li>
                 <li>
-                    <div class="progress percent70"><span>75%</span></div>
-                    <strong>Illustrator</strong>
+                    <div class="progress percent75"><span>75%</span></div>
+                    <strong>Wix/Shopify</strong>
                 </li>
                 <li>
-                    <div class="progress percent95"><span>80%</span></div>
+                    <div class="progress percent80"><span>80%</span></div>
                     <strong>Html/Css</strong>
                 </li>
                 <li>
-
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>Adobe  Framework</strong>
+                </li>
+                <li>
+                    <div class="progress percent80"><span>80%</span></div>
+                    <strong>Video Editing</strong>
+                </li>
+                <li>
                     <div class="progress percent75"><span>75%</span></div>
-                    <strong>Wix/Shopify</strong>
+                    <strong>MS Office</strong>
                 </li>
 
             </ul> <!-- /skill-bars -->
@@ -213,7 +227,8 @@
             <h5>Resume</h5>
             <h1>More of my credentials.</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <p class="lead">“If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.” – Steve Jobs
+                <br>Some of the professional positions I've held.</p>
 
         </div>
     </div> <!-- /section-intro-->
@@ -237,13 +252,17 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Backend Developer</h3>
+                        <h3>MADD Solutions</h3>
                         <p>April 2019 - August 2019</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>MADD Solutions</h4>
-                        <p>Work as Laravel backend internee hands on experience and learn a lot of advance things that make to enhance my skills</p>
+                        <h4>Laravel Backend Developer</h4>
+                        <p>Right after I graduated, I started working for backend developer. I developed a custom API's, bug fixing and cloning the websites wordpress into laravel.
+                            I also made a lot of custom made web sites/applications.
+
+{{--                            I did my internship at a company named MADD Solutions. There I learned to apply my knowledge of PHP ,Work as Laravel backend internee hands on experience and learn a lot of advance things that make to enhance my skills--}}
+                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -255,13 +274,14 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Teacher Assistant</h3>
-                        <p>September 2017 - February 2018</p>
+                        <h3>University of Management & Technology</h3>
+                        <p>August 2017 - February 2018</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>UMT </h4>
-                        <p>Teaching Skills</p>
+                        <h4>Teacher Assistant</h4>
+                        <p>Conducting the programming fundamental lab and helping the students to better understanding the coding concepts.
+                        I also learn many new things, this may help to improve my skills and  </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -273,13 +293,15 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Social Work</h3>
+                        <h3>SOS Children village</h3>
                         <p>March 2016 - April 2016</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>SOS Children village</h4>
-                        <p> Team lead of collecting donation and help the SOS Children.</p>
+                        <h4>Social Work</h4>
+                        <p>SOS Children's Villages is an independent organization provides the quality care for completely orphans or social orphans children who can no longer live with their parents.
+                            I have experience for working as a volunteer
+                            team lead of collecting donation and help that Children.</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -309,13 +331,15 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Bachelor Degree</h3>
+                        <h3>University of Management and Technology</h3>
                         <p>October 2013 - December 2018</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>University of Management and Technology</h4>
-                        <p>Enjoy and chill Life </p>
+                        <h4>Bachelor (Computer Science)</h4>
+                        <p>The education was mainly based on programming and mathematics, but I also learned about SQL, PHP, MVC and more.
+                            During my time in university, I specialized in WebDevelopment. Here I learned about the importance of OOP, web- and user experience and design.
+                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -327,13 +351,19 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Intermediate</h3>
+                        <h3>Superior Group of Colleges</h3>
                         <p>August 2011 - May 2013</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Superior Group of Colleges</h4>
-                        <p>FSC pre-engineering hogi</p>
+                        <h4>Intermediate (Pre-Engineering)</h4>
+                        <p>
+                            I graduated from college, where I studies math,physics and chemistry major.
+                            I realized in my final years that I'm going in the wrong way my interest is in
+                            computer and technology
+                            I have self learning picture, video editing and making the HTML web pages.
+
+                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -345,13 +375,17 @@
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Matric</h3>
+                        <h3>Matric (Science Group)</h3>
                         <p>March 2001 - March 2011</p>
                     </div>
 
                     <div class="timeline-content">
                         <h4>Sheikh Zayed Public School</h4>
-                        <p>School life must life</p>
+                        <p>I graduated high school, where I enjoyed doing science, math, biology and arts.
+                            In the age of twelve i have making digital drawing on paint in windows98 and playing games
+                            thats make me facinated how computer works and spend most of the time designing and playing thats
+                            helping to develop my interest.
+                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -375,7 +409,10 @@
             <h5>Portfolio</h5>
             <h1>Check Out Some of My Works.</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <p class="lead">
+                “You can do anything you set your mind to.”
+                - Benjamin Franklin
+            </p>
 
         </div>
     </div> <!-- /section-intro-->
@@ -657,7 +694,10 @@
             <h5>Services</h5>
             <h1>What Can I Do For You?</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <p class="lead">
+                “You can do anything you set your mind to.”
+                - Benjamin Franklin
+            </p>
 
         </div>
     </div> <!-- /section-intro -->
@@ -672,9 +712,13 @@
 
                 <div class="service-content">
 
-                    <h3>Webdesign</h3>
+                    <h3>Web Design </h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">
+                        Many factors contribute to why I am interested in designing and developing
+                        computer software. While I enjoy the logical challenges within computer science
+                        I also relish the creative work, which fits in with my love for Drama and my
+                        enjoyment of drawing.
                     </p>
 
                 </div>
@@ -696,18 +740,18 @@
 
             </div> <!-- /service -->
 
-            <div class="service">
+                <div class="service">
 
-                <span class="icon"><i class="icon-paint-brush"></i></span>
+                    <span class="icon"><i class="icon-paint-brush"></i></span>
 
-                <div class="service-content">
+                    <div class="service-content">
 
-                    <h3>Branding</h3>
+                        <h3>Branding</h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
+                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                        </p>
 
-                </div>
+                    </div>
 
             </div> <!-- /service -->
 
@@ -886,7 +930,10 @@
             <h5>Get in Touch</h5>
             <h1>I'd Love To Hear From You.</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <p class="lead">
+                “If I had asked people what they wanted, they would have said faster horses. ”
+                - Henry Ford
+            </p>
 
         </div>
   {{----  </div> <!-- /section-intro -->
@@ -946,12 +993,12 @@
                 <i class="icon-pin"></i>
             </div>
 
-            <h5>Where to find me</h5>
+            <h5>Find me at</h5>
 
             <p>
                House no.12 Jinnah Park <br>
-                Multan Road, Lhr<br>
-                54790 Pak
+                Multan Road, Lahore<br>
+
             </p>
 
         </div>
@@ -978,8 +1025,8 @@
 
             <h5>Call Me At</h5>
 
-            <p>Phone: (+92) 30167-85565<br>
-                Mobile: (+92) 33296-33733<br>
+            <p>Phone: (+92) 301 678 5565<br>
+                Mobile: (+92) 332 963 3733<br>
 {{--                Fax: (+63) 555 0101--}}
             </p>
 
@@ -1011,7 +1058,7 @@
 
         <div class="col-eight tab-full">
             <div class="copyright">
-                <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.all rights reserved</span>
+                <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.Feel free to fork for your own use.</span>
 {{--                <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>--}}
 {{--                <span>Distributed by <a href="https://themewagon.com/">themewagon</a></span>--}}
             </div>
