@@ -28,7 +28,8 @@
 
     <!-- favicons
      ================================================== -->
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="{{ asset('favicon-32x32.png') }}">
+
 
 </head>
 
@@ -426,13 +427,13 @@
 
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
-                        <img src="images/portfolio/liberty.jpg" alt="Liberty">
+                        <img src="images/portfolio/petro.jpg" alt="Petro">
                         <a href="#modal-01" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
-                                    <h3 class="folio-title">Liberty</h3>
+                                    <h3 class="folio-title">CPMS</h3>
                                     <span class="folio-types">
-		     					       	  Graphic Design
+		     					       	  Web Design & Develppment
 		     					       </span>
                                 </div>
                             </div>
@@ -446,9 +447,9 @@
                         <a href="#modal-02" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
-                                    <h3 class="folio-title">Shutterbug</h3>
+                                    <h3 class="folio-title">BLOG</h3>
                                     <span class="folio-types">
-		     					       	  Web Design
+		     					       	  Web Development
 		     					      </span>
                                 </div>
                             </div>
@@ -462,9 +463,9 @@
                         <a href="#modal-03" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
-                                    <h3 class="folio-title">Clouds</h3>
+                                    <h3 class="folio-title">Supermarket</h3>
                                     <span class="folio-types">
-		     					       	  Web Design
+		     					       	  Web Design & Development
 		     					      </span>
                                 </div>
                             </div>
@@ -525,18 +526,20 @@
                 <div id="modal-01" class="popup-modal slider mfp-hide">
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+                        <img src="images/portfolio/modals/petrochemical.jpg" alt="petrochemical" />
                     </div>
 
                     <div class="description-box">
-                        <h4>Liberty</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                        <h4>CPMS (Chemical Plant Management System)</h4>
+                        <p>A system is developed for Petrochemicals to make their business process easy so that they can manage their data in a well-organized way and help them manage their multiple plant’s information in a single system
+                            and also provide them reports of their plant.We build it accorting to their requirement.
+                        </p>
 
-                        <div class="categories">Web Development</div>
+                        <div class="categories">Web Design & Development</div>
                     </div>
 
                     <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="http://demo-cpms.herokuapp.com/login"target="_blank">Details</a>
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
@@ -549,14 +552,15 @@
                     </div>
 
                     <div class="description-box">
-                        <h4>Shutterbug</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                        <h4>My Blog</h4>
+                        <p>Developing the backend of blog
+                        </p>
 
-                        <div class="categories">Web Design</div>
+                        <div class="categories">Web Development</div>
                     </div>
 
                     <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://github.com/Fouzansaleem/myblog" target="_blank" >Details</a>
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
@@ -738,6 +742,21 @@
 
                 </div>
 
+            </div><!-- /service -->
+
+            <div class="service">
+
+                <span class="icon"><i class="icon-chat"></i></span>
+
+                <div class="service-content">
+
+                    <h3>Consultancy</h3>
+
+                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    </p>
+
+                </div>
+
             </div> <!-- /service -->
 
                 <div class="service">
@@ -783,22 +802,7 @@
 
                 </div>
 
-            </div> <!-- /service -->
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-chat"></i></span>
-
-                <div class="service-content">
-
-                    <h3>Consultancy</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
-
-                </div>
-
-            </div> <!-- /service -->
+            </div>  <!-- /service -->
 
         </div> <!-- /services-list -->
 
@@ -809,6 +813,7 @@
 
 <!-- stats Section
 ================================================== -->
+{{--
 <section id="stats" class="count-up">
 
     <div class="row">
@@ -919,7 +924,7 @@
 
 </section> <!-- /stats -->
 
-
+--}}
 <!-- contact
 ================================================== -->
 <section id="contact">
@@ -931,8 +936,7 @@
             <h1>I'd Love To Hear From You.</h1>
 
             <p class="lead">
-                “If I had asked people what they wanted, they would have said faster horses. ”
-                - Henry Ford
+                Feel free to disturb me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.
             </p>
 
         </div>
@@ -1047,11 +1051,9 @@
         <div class="col-six tab-full pull-right social">
 
             <ul class="footer-social">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-{{--                <li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-{{--                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.facebook.com/fouzansaleem"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://www.instagram.com/fouzansaleem/"><i class="fa fa-instagram"></i></a></li>
             </ul>
 
         </div>
@@ -1059,9 +1061,6 @@
         <div class="col-eight tab-full">
             <div class="copyright">
                 <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.Feel free to fork for your own use.</span>
-{{--                <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>--}}
-{{--                <span>Distributed by <a href="https://themewagon.com/">themewagon</a></span>--}}
-            </div>
         </div>
 
         <div id="go-top">
