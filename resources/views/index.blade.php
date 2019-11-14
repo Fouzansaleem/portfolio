@@ -77,8 +77,8 @@
                 <h1>I'm Fouzan Saleem.</h1>
 
                 <p class="intro-position">
-                    <span>Back-end Developer</span>
-                    <span>Graphic Designer</span>
+                    <span>Web Developer</span>
+                    <span> Designer</span>
                 </p>
 
                 <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -91,9 +91,10 @@
     <ul class="intro-social">
         <li><a href="https://www.facebook.com/fouzansaleem"><i class="fa fa-facebook"></i></a></li>
         <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"><i class="fa fa-linkedin"></i></a></li>
-{{--        <li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-{{--        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
         <li><a href="https://www.instagram.com/fouzansaleem/"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://github.com/Fouzansaleem"><i class="fa fa-github"></i></a></li>
+{{--        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+
     </ul> <!-- /intro-social -->
 
 </section> <!-- /intro -->
@@ -259,10 +260,8 @@
 
                     <div class="timeline-content">
                         <h4>Laravel Backend Developer</h4>
-                        <p>Right after I graduated, I started working for backend developer. I developed a custom API's, bug fixing and cloning the websites wordpress into laravel.
+                        <p>Right after I graduated, I started working for backend developer. I developed a custom API's, bug fixing and cloning the websites into laravel.
                             I also made a lot of custom made web sites/applications.
-
-{{--                            I did my internship at a company named MADD Solutions. There I learned to apply my knowledge of PHP ,Work as Laravel backend internee hands on experience and learn a lot of advance things that make to enhance my skills--}}
                         </p>
                     </div>
 
@@ -282,7 +281,7 @@
                     <div class="timeline-content">
                         <h4>Teacher Assistant</h4>
                         <p>Conducting the programming fundamental lab and helping the students to better understanding the coding concepts.
-                        I also learn many new things, this may help to improve my skills and  </p>
+                        I also learn many new things, this may help to improve my skills and knowledge. </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -300,7 +299,7 @@
 
                     <div class="timeline-content">
                         <h4>Social Work</h4>
-                        <p>SOS Children's Villages is an independent organization provides the quality care for completely orphans or social orphans children who can no longer live with their parents.
+                        <p>SOS is an independent organization provides the quality care for completely orphans or social orphans children who can no longer live with their parents.
                             I have experience for working as a volunteer
                             team lead of collecting donation and help that Children.</p>
                     </div>
@@ -382,7 +381,7 @@
 
                     <div class="timeline-content">
                         <h4>Sheikh Zayed Public School</h4>
-                        <p>I graduated high school, where I enjoyed doing science, math, biology and arts.
+                        <p>I passout high school, where I enjoyed doing science, math, biology and arts.
                             In the age of twelve i have making digital drawing on paint in windows98 and playing games
                             thats make me facinated how computer works and spend most of the time designing and playing thats
                             helping to develop my interest.
@@ -408,7 +407,7 @@
         <div class="col-twelve">
 
             <h5>Portfolio</h5>
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Some Best I've Built.</h1>
 
             <p class="lead">
                 “You can do anything you set your mind to.”
@@ -440,26 +439,9 @@
                         </a>
                     </div>
                 </div> <!-- /folio-item -->
-
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
-                        <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
-                        <a href="#modal-02" class="overlay">
-                            <div class="folio-item-table">
-                                <div class="folio-item-cell">
-                                    <h3 class="folio-title">BLOG</h3>
-                                    <span class="folio-types">
-		     					       	  Web Development
-		     					      </span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div> <!-- /folio-item -->
-
-                <div class="bgrid folio-item">
-                    <div class="item-wrap">
-                        <img src="images/portfolio/clouds.jpg"alt="Clouds">
+                        <img src="images/portfolio/bagisto.jpg"alt="Clouds">
                         <a href="#modal-03" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
@@ -475,27 +457,11 @@
 
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
-                        <img src="images/portfolio/beetle.jpg" alt="Beetle">
-                        <a href="#modal-04" class="overlay">
+                        <img src="images/portfolio/blog.jpg" alt="blog">
+                        <a href="#modal-02" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
-                                    <h3 class="folio-title">Beetle</h3>
-                                    <span class="folio-types">
-		     					       	  Branding
-		     					      </span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div> <!-- /folio-item -->
-
-                <div class="bgrid folio-item">
-                    <div class="item-wrap">
-                        <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
-                        <a href="#modal-05" class="overlay">
-                            <div class="folio-item-table">
-                                <div class="folio-item-cell">
-                                    <h3 class="folio-title">Lighthouse</h3>
+                                    <h3 class="folio-title">BLOG</h3>
                                     <span class="folio-types">
 		     					       	  Web Development
 		     					      </span>
@@ -504,23 +470,55 @@
                         </a>
                     </div>
                 </div> <!-- /folio-item -->
-
-                <div class="bgrid folio-item">
-                    <div class="item-wrap">
-                        <img src="images/portfolio/salad.jpg" alt="Salad">
-                        <a href="#modal-06" class="overlay">
-                            <div class="folio-item-table">
-                                <div class="folio-item-cell">
-                                    <h3 class="folio-title">Salad</h3>
-                                    <span class="folio-types">
-		     					       	  Branding
-		     					      </span>
+            {{--
+                            <div class="bgrid folio-item">
+                                <div class="item-wrap">
+                                    <img src="images/portfolio/beetle.jpg" alt="Beetle">
+                                    <a href="#modal-04" class="overlay">
+                                        <div class="folio-item-table">
+                                            <div class="folio-item-cell">
+                                                <h3 class="folio-title">Beetle</h3>
+                                                <span class="folio-types">
+                                                          Branding
+                                                   </span>
+                                            </div>
+                                        </div>
+                                    </a>
                                 </div>
-                            </div>
-                        </a>
-                    </div>
-                </div> <!-- /folio-item -->
+                            </div> <!-- /folio-item -->
 
+                            <div class="bgrid folio-item">
+                                <div class="item-wrap">
+                                    <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+                                    <a href="#modal-05" class="overlay">
+                                        <div class="folio-item-table">
+                                            <div class="folio-item-cell">
+                                                <h3 class="folio-title">Lighthouse</h3>
+                                                <span class="folio-types">
+                                                          Web Development
+                                                   </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div> <!-- /folio-item -->
+
+                            <div class="bgrid folio-item">
+                                <div class="item-wrap">
+                                    <img src="images/portfolio/salad.jpg" alt="Salad">
+                                    <a href="#modal-06" class="overlay">
+                                        <div class="folio-item-table">
+                                            <div class="folio-item-cell">
+                                                <h3 class="folio-title">Salad</h3>
+                                                <span class="folio-types">
+                                                          Branding
+                                                   </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div> <!-- /folio-item -->
+            --}}
                 <!-- modal popups - begin
                 ============================================================= -->
                 <div id="modal-01" class="popup-modal slider mfp-hide">
@@ -544,17 +542,36 @@
                     </div>
 
                 </div> <!-- /modal-01 -->
+                <div id="modal-03" class="popup-modal slider mfp-hide">
+
+                    <div class="media">
+                        <img src="images/portfolio/modals/bagisto.jpg" alt="" />
+                    </div>
+
+                    <div class="description-box">
+                        <h4>SuperMarket</h4>
+                        <p>Online supermarket store site using bagaisto laravel package.
+                        </p>
+
+                        <div class="categories">Web Design & Development</div>
+                    </div>
+
+                    <div class="link-box">
+                        <a href="https://demo.bagisto.com/bagisto-common/">Details</a>
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div><!-- /modal-02 -->
 
                 <div id="modal-02" class="popup-modal slider mfp-hide">
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+                        <img src="images/portfolio/modals/blog.jpg" alt="" />
                     </div>
 
                     <div class="description-box">
                         <h4>My Blog</h4>
-                        <p>Developing the backend of blog
-                        </p>
+                        <p>A Freelance project of Developing and Managing the backend of blog website with using bootstrap.</p>
 
                         <div class="categories">Web Development</div>
                     </div>
@@ -564,28 +581,10 @@
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
-                </div> <!-- /modal-02 -->
+                </div>  <!-- /modal-03 -->
 
-                <div id="modal-03" class="popup-modal slider mfp-hide">
 
-                    <div class="media">
-                        <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
-                    </div>
-
-                    <div class="description-box">
-                        <h4>Clouds</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-                        <div class="categories">Web Design</div>
-                    </div>
-
-                    <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
-                        <a href="#" class="popup-modal-dismiss">Close</a>
-                    </div>
-
-                </div> <!-- /modal-03 -->
-
+{{--
                 <div id="modal-04" class="popup-modal slider mfp-hide">
 
                     <div class="media">
@@ -645,7 +644,7 @@
                     </div>
 
                 </div> <!-- /modal-06 -->
-
+--}}
 
                 <!-- modal popups - end
              ============================================================= -->
@@ -719,10 +718,9 @@
                     <h3>Web Design </h3>
 
                     <p class="desc">
-                        Many factors contribute to why I am interested in designing and developing
-                        computer software. While I enjoy the logical challenges within computer science
-                        I also relish the creative work, which fits in with my love for Drama and my
-                        enjoyment of drawing.
+                        I have design your favourite frontend web pages according to your requirement
+                        and give them eye catching style and colours schemes to look beautiful,
+                        user attractive and user friendly by using latest technology HTML, CSS, JaveScript.
                     </p>
 
                 </div>
@@ -737,7 +735,9 @@
 
                     <h3>Web Development</h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">
+                    I have developing and managing your dynamic and static website projects according to your requrements.
+                        CMS,MVC,CRM Platform selection is based on project description and your choice.
                     </p>
 
                 </div>
@@ -752,13 +752,15 @@
 
                     <h3>Consultancy</h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">
+                    You can discuss and share me any kind to problems related to technology, web, E-commerce and education too.
+                        I also provide the solution of coding techniques if you're stuck. I try my best what I've have based on situation.
                     </p>
 
                 </div>
 
             </div> <!-- /service -->
-
+{{--
                 <div class="service">
 
                     <span class="icon"><i class="icon-paint-brush"></i></span>
@@ -801,7 +803,7 @@
                     </p>
 
                 </div>
-
+--}}
             </div>  <!-- /service -->
 
         </div> <!-- /services-list -->
