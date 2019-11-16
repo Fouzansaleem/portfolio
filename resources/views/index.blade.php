@@ -38,9 +38,9 @@
 <!-- header
 ================================================== -->
 <header>
-    <div class="row">
+    <div class="">
 
-        <div class="top-bar">
+        <div class="top-bar pull-left">
             <a class="menu-toggle" href="#"><span>Menu</span></a>
 
             <div class="logo">
@@ -130,7 +130,7 @@
 
             <h3>Profile</h3>
             <p>
-                I'm an allround web developer.I'm a programmer with good knowledge of back-end techniques.
+                I'm an all rounder web developer.I'm a programmer with good knowledge of back-end techniques.
                 <br> I love spending time on fixing little details and optimizing web apps.
                 I always motivated and willing to learn new things.
                 Also I like working in a team, you'll learn faster and much more.
@@ -166,12 +166,6 @@
         <div class="col-six tab-full">
 
             <h3>Skills</h3>
-
-            <p>
-{{--                Without knowledge action is uselesss and knowledge without action is futile.--}}
-                “The mark of higher education isn’t the knowledge you accumulate in your head.
-                It’s the skills you gain about how to learn.” <br> – Adam Grant -
-            </p>
 
             <ul class="skill-bars">
                 <li>
@@ -657,162 +651,6 @@
 
 </section> <!-- /portfolio -->
 
-
-<!-- CTA Section
-================================================== -->
-<section id="cta" class="grey-section">
-
-    <div class="row cta-content">
-
-        <div class="col-twelve section-ads">
-
-            <h2 class="h01"><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Styleshout Recommends Dreamhost.</a></h2>
-
-            <p class="lead">
-                Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
-                Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>.
-                <!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->
-            </p>
-
-            <div class="action">
-                <a class="button button-primary large" href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Sign Up Now</a>
-            </div>
-
-        </div>
-
-    </div> <!-- /cta-content -->
-
-</section> <!-- /cta -->
-
-
-<!-- services Section
-================================================== -->
-<section id="services">
-
-    <div class="overlay"></div>
-
-    <div class="row section-intro">
-        <div class="col-twelve">
-
-            <h5>Services</h5>
-            <h1>What Can I Do For You?</h1>
-
-            <p class="lead">
-                “You can do anything you set your mind to.”
-                - Benjamin Franklin
-            </p>
-
-        </div>
-    </div> <!-- /section-intro -->
-
-    <div class="row services-content">
-
-        <div id="owl-slider" class="owl-carousel services-list">
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-earth"></i></span>
-
-                <div class="service-content">
-
-                    <h3>Web Design </h3>
-
-                    <p class="desc">
-                        I have design your favourite frontend web pages according to your requirement
-                        and give them eye catching style and colours schemes to look beautiful,
-                        user attractive and user friendly by using latest technology HTML, CSS, JaveScript.
-                    </p>
-
-                </div>
-
-            </div> <!-- /service -->
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-window"></i></span>
-
-                <div class="service-content">
-
-                    <h3>Web Development</h3>
-
-                    <p class="desc">
-                    I have developing and managing your dynamic and static website projects according to your requrements.
-                        CMS,MVC,CRM Platform selection is based on project description and your choice.
-                    </p>
-
-                </div>
-
-            </div><!-- /service -->
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-chat"></i></span>
-
-                <div class="service-content">
-
-                    <h3>Consultancy</h3>
-
-                    <p class="desc">
-                    You can discuss and share me any kind to problems related to technology, web, E-commerce and education too.
-                        I also provide the solution of coding techniques if you're stuck. I try my best what I've have based on situation.
-                    </p>
-
-                </div>
-
-            </div> <!-- /service -->
-{{--
-                <div class="service">
-
-                    <span class="icon"><i class="icon-paint-brush"></i></span>
-
-                    <div class="service-content">
-
-                        <h3>Branding</h3>
-
-                        <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>
-
-                    </div>
-
-            </div> <!-- /service -->
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-toggles"></i></span>
-
-                <div class="service-content">
-
-                    <h3>UI/UX Design</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
-
-                </div>
-
-            </div> <!-- /service -->
-
-            <div class="service">
-
-                <span class="icon"><i class="icon-image"></i></span>
-
-                <div class="service-content">
-
-                    <h3>Graphics Design</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
-
-                </div>
---}}
-            </div>  <!-- /service -->
-
-        </div> <!-- /services-list -->
-
-    </div> <!-- /services-content -->
-
-</section> <!-- /services -->
-
-
 <!-- stats Section
 ================================================== -->
 {{--
@@ -1062,7 +900,7 @@
 
         <div class="col-eight tab-full">
             <div class="copyright">
-                <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.Feel free to fork for your own use.</span>
+                <span>© Copyright 2019 <strong>Fouzan Saleem</strong>.Feel free to contact me.</span>
         </div>
 
         <div id="go-top">
