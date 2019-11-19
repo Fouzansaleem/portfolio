@@ -38,28 +38,7 @@
 <!-- header
 ================================================== -->
 <header>
-    <div class="">
 
-        <div class="top-bar pull-left">
-            <a class="menu-toggle" href="#"><span>Menu</span></a>
-
-            <div class="logo">
-                <a  href="#intro"></a>
-            </div>
-
-            <nav id="main-nav-wrap">
-                <ul class="main-navigation">
-                    <li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
-                    <li><a class="smoothscroll"  href="#about" title="">About</a></li>
-                    <li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
-                    <li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
-                    <li><a class="smoothscroll"  href="#services" title="">Services</a></li>
-                    <li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
-                </ul>
-            </nav>
-        </div> <!-- /top-bar -->
-
-    </div> <!-- /row -->
 </header> <!-- /header -->
 
 <!-- intro section
@@ -89,11 +68,10 @@
     </div> <!-- /intro-content -->
 
     <ul class="intro-social">
-        <li><a href="https://www.facebook.com/fouzansaleem"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="https://www.instagram.com/fouzansaleem/"><i class="fa fa-instagram"></i></a></li>
-        <li><a href="https://github.com/Fouzansaleem"><i class="fa fa-github"></i></a></li>
-{{--        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+        <li><a href="https://www.facebook.com/fouzansaleem"target="_blank"><i class="fa fa-facebook" ></i></a></li>
+        <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://github.com/Fouzansaleem"target="_blank"><i class="fa fa-github"></i></a></li>
 
     </ul> <!-- /intro-social -->
 
@@ -196,6 +174,13 @@
                     <div class="progress percent75"><span>75%</span></div>
                     <strong>MS Office</strong>
                 </li>
+                <li>
+                    <div class="progress percent75"><span>75%</span></div>
+                    <strong>Visual Paradigm</strong>
+                </li><li>
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>GitHub</strong>
+                </li>
 
             </ul> <!-- /skill-bars -->
 
@@ -206,7 +191,7 @@
     <div class="row button-section">
         <div class="col-twelve">
             <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-            <a href="#" title="Download CV" class="button button-primary">Download CV</a>
+            <a href="https://drive.google.com/file/d/1olIBrTxDJRaC4HYG4KujUy9E1iCMKUcw/view?usp=sharing" title="Download CV" class="button button-primary" target="_blank">Download CV</a>
         </div>
     </div>
 
@@ -464,55 +449,7 @@
                         </a>
                     </div>
                 </div> <!-- /folio-item -->
-            {{--
-                            <div class="bgrid folio-item">
-                                <div class="item-wrap">
-                                    <img src="images/portfolio/beetle.jpg" alt="Beetle">
-                                    <a href="#modal-04" class="overlay">
-                                        <div class="folio-item-table">
-                                            <div class="folio-item-cell">
-                                                <h3 class="folio-title">Beetle</h3>
-                                                <span class="folio-types">
-                                                          Branding
-                                                   </span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div> <!-- /folio-item -->
 
-                            <div class="bgrid folio-item">
-                                <div class="item-wrap">
-                                    <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
-                                    <a href="#modal-05" class="overlay">
-                                        <div class="folio-item-table">
-                                            <div class="folio-item-cell">
-                                                <h3 class="folio-title">Lighthouse</h3>
-                                                <span class="folio-types">
-                                                          Web Development
-                                                   </span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div> <!-- /folio-item -->
-
-                            <div class="bgrid folio-item">
-                                <div class="item-wrap">
-                                    <img src="images/portfolio/salad.jpg" alt="Salad">
-                                    <a href="#modal-06" class="overlay">
-                                        <div class="folio-item-table">
-                                            <div class="folio-item-cell">
-                                                <h3 class="folio-title">Salad</h3>
-                                                <span class="folio-types">
-                                                          Branding
-                                                   </span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div> <!-- /folio-item -->
-            --}}
                 <!-- modal popups - begin
                 ============================================================= -->
                 <div id="modal-01" class="popup-modal slider mfp-hide">
@@ -551,7 +488,7 @@
                     </div>
 
                     <div class="link-box">
-                        <a href="https://demo.bagisto.com/bagisto-common/">Details</a>
+                        <a href="https://demo.bagisto.com/bagisto-common/" target="_blank">Details</a>
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
@@ -578,67 +515,7 @@
                 </div>  <!-- /modal-03 -->
 
 
-{{--
-                <div id="modal-04" class="popup-modal slider mfp-hide">
 
-                    <div class="media">
-                        <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
-                    </div>
-
-                    <div class="description-box">
-                        <h4>Beetle</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-                        <div class="categories">Branding</div>
-                    </div>
-
-                    <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
-                        <a href="#" class="popup-modal-dismiss">Close</a>
-                    </div>
-
-                </div> <!-- /modal-04 -->
-
-                <div id="modal-05" class="popup-modal slider mfp-hide">
-
-                    <div class="media">
-                        <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
-                    </div>
-
-                    <div class="description-box">
-                        <h4>Lighthouse</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-                        <div class="categories">Web Development</div>
-                    </div>
-
-                    <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
-                        <a href="#" class="popup-modal-dismiss">Close</a>
-                    </div>
-
-                </div> <!-- /modal-05 -->
-
-                <div id="modal-06" class="popup-modal slider mfp-hide">
-
-                    <div class="media">
-                        <img src="images/portfolio/modals/m-salad.jpg" alt="" />
-                    </div>
-
-                    <div class="description-box">
-                        <h4>Salad</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-                        <div class="categories">Branding</div>
-                    </div>
-
-                    <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
-                        <a href="#" class="popup-modal-dismiss">Close</a>
-                    </div>
-
-                </div> <!-- /modal-06 -->
---}}
 
                 <!-- modal popups - end
              ============================================================= -->
@@ -653,118 +530,7 @@
 
 <!-- stats Section
 ================================================== -->
-{{--
-<section id="stats" class="count-up">
 
-    <div class="row">
-        <div class="col-twelve">
-
-            <div class="block-1-6 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-pencil-ruler"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        1500
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Projects Completed
-                    </h5>
-
-                </div> <!-- /stat -->
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-users"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        900
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Happy Clients
-                    </h5>
-
-                </div> <!-- /stat -->
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-badge"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        200
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Awards Received
-                    </h5>
-
-                </div> <!-- /stat -->
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-light-bulb"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        120
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Crazy Ideas
-                    </h5>
-
-                </div> <!-- /stat -->
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-cup"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        1500
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Coffee Cups
-                    </h5>
-
-                </div> <!-- /stat -->
-
-                <div class="bgrid stat">
-
-                    <div class="icon-part">
-                        <i class="icon-clock"></i>
-                    </div>
-
-                    <h3 class="stat-count">
-                        7200
-                    </h3>
-
-                    <h5 class="stat-title">
-                        Hours
-                    </h5>
-
-                </div> <!-- /stat -->
-
-            </div> <!-- /stats-list -->
-
-        </div> <!-- /twelve -->
-    </div> <!-- /row -->
-
-</section> <!-- /stats -->
-
---}}
 <!-- contact
 ================================================== -->
 <section id="contact">
@@ -780,55 +546,7 @@
             </p>
 
         </div>
-  {{----  </div> <!-- /section-intro -->
 
-    <div class="row contact-form">
-
-        <div class="col-twelve">
-
-            <!-- form -->
-            <form name="contactForm" id="contactForm" method="post" action="">
-                <fieldset>
-
-                    <div class="form-field">
-                        <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
-                    </div>
-                    <div class="form-field">
-                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
-                    </div>
-                    <div class="form-field">
-                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
-                    </div>
-                    <div class="form-field">
-                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
-                    </div>
-                    <div class="form-field">
-                        <button class="submitform">Submit</button>
-                        <div id="submit-loader">
-                            <div class="text-loader">Sending...</div>
-                            <div class="s-loader">
-                                <div class="bounce1"></div>
-                                <div class="bounce2"></div>
-                                <div class="bounce3"></div>
-                            </div>
-                        </div>
-                    </div>
-
-                </fieldset>
-            </form> <!-- Form End -->
-
-            <!-- contact-warning -->
-            <div id="message-warning">
-            </div>
-            <!-- contact-success -->
-            <div id="message-success">
-                <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-            </div>
-
-        </div> <!-- /col-twelve -->
-
-    </div> <!-- /contact-form -->
---}}
     <div class="row contact-info">
 
         <div class="col-four tab-full">
@@ -871,7 +589,6 @@
 
             <p>Phone: (+92) 301 678 5565<br>
                 Mobile: (+92) 332 963 3733<br>
-{{--                Fax: (+63) 555 0101--}}
             </p>
 
         </div>
@@ -891,9 +608,9 @@
         <div class="col-six tab-full pull-right social">
 
             <ul class="footer-social">
-                <li><a href="https://www.facebook.com/fouzansaleem"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="https://www.instagram.com/fouzansaleem/"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.facebook.com/fouzansaleem"target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fa fa-instagram"></i></a></li>
             </ul>
 
         </div>
