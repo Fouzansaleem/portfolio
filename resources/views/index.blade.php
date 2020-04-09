@@ -43,6 +43,7 @@
 
 <!-- intro section
 ================================================== -->
+
 <section id="intro">
 
     <div class="intro-overlay"></div>
@@ -56,8 +57,9 @@
                 <h1>I'm Fouzan Saleem.</h1>
 
                 <p class="intro-position">
-                    <span>Web Developer</span>
-                    <span> Designer</span>
+                    <span>Researcher</span>
+                    <span>Developer</span>
+                    <span>Designer</span>
                 </p>
 
                 <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -71,6 +73,7 @@
         <li><a href="https://www.facebook.com/fouzansaleem"target="_blank"><i class="fa fa-facebook" ></i></a></li>
         <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"target="_blank"><i class="fa fa-linkedin"></i></a></li>
         <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fa fa-instagram"></i></a></li>
+{{--        <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fa fa-twitter"></i></a></li>--}}
         <li><a href="https://github.com/Fouzansaleem"target="_blank"><i class="fa fa-github"></i></a></li>
 
     </ul> <!-- /intro-social -->
@@ -93,8 +96,8 @@
                 <img src="images/profile-pic.jpg" alt="Profile Picture">
 
                 <p class="lead">
-                    Hello! I'm Fouzan, a software engineer,I'm a creative Laravel webdeveloper, I develop exceptional high-quality websites and web applications
-                    that provide perceptive, pixel-perfect user friendly interfaces with efficient and modern backends.
+                    Hello! I'm Fouzan, a Software Engineer, I'm a creative Laravel web developer, I develop exceptional high-quality websites and web applications that provide perceptive, pixel-perfect user-friendly interfaces with efficient and modern backends.
+
 
                 </p>
             </div>
@@ -108,11 +111,8 @@
 
             <h3>Profile</h3>
             <p>
-                I'm an all rounder web developer.I'm a programmer with good knowledge of back-end techniques.
-                <br> I love spending time on fixing little details and optimizing web apps.
-                I always motivated and willing to learn new things.
-                Also I like working in a team, you'll learn faster and much more.
-                As the saying goes: 'two heads are better than one'.
+                I'm an all-rounder web developer. I'm a programmer with good knowledge of front-end as well as back-end techniques.
+                I love spending time on fixing little details and optimizing web apps. I always motivated and willing to learn new things. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.
             </p>
 
             <ul class="info-list">
@@ -126,15 +126,15 @@
                 </li>
                 <li>
                     <strong>Job:</strong>
-                    <span>Freelance, Back-end Developer</span>
+                    <span>Full Stack Web Developer</span>
                 </li>
                 <li>
                     <strong>Website:</strong>
-                    <span>www.fouzansaleem.com</span>
+                    <a href="https:www.fouzansaleem.com" target="_blank"><span>www.fouzansaleem.com</span></a>
                 </li>
                 <li>
                     <strong>Email:</strong>
-                    <span>fouzanvictor@gmail.com</span>
+                    <a href="mailto:fouzanvictor@gmail.com"target="_blank"><span>fouzanvictor@gmail.com</span></a>
                 </li>
 
             </ul> <!-- /info-list -->
@@ -160,26 +160,26 @@
                 </li>
                 <li>
                     <div class="progress percent80"><span>80%</span></div>
-                    <strong>Html/Css</strong>
+                    <strong>Html/Css/Boostrap</strong>
                 </li>
                 <li>
                     <div class="progress percent70"><span>70%</span></div>
-                    <strong>Adobe  Framework</strong>
+                    <strong>Github</strong>
                 </li>
-                <li>
+               {{-- <li>
                     <div class="progress percent80"><span>80%</span></div>
                     <strong>Video Editing</strong>
-                </li>
+                </li>--}}
                 <li>
                     <div class="progress percent75"><span>75%</span></div>
                     <strong>MS Office</strong>
                 </li>
                 <li>
-                    <div class="progress percent75"><span>75%</span></div>
-                    <strong>Visual Paradigm</strong>
+                    <div class="progress percent85"><span>85%</span></div>
+                    <strong>Visual Paradigm/draw.io</strong>
                 </li><li>
                     <div class="progress percent70"><span>70%</span></div>
-                    <strong>GitHub</strong>
+                    <strong>adobe framework</strong>
                 </li>
 
             </ul> <!-- /skill-bars -->
@@ -191,7 +191,7 @@
     <div class="row button-section">
         <div class="col-twelve">
             <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-            <a href="https://drive.google.com/file/d/1olIBrTxDJRaC4HYG4KujUy9E1iCMKUcw/view?usp=sharing" title="Download CV" class="button button-primary" target="_blank">Download CV</a>
+            <a href="https://drive.google.com/file/d/1uuH6s2_9nwQANQRJHpifGBfVKTcsnokW/view?usp=sharing" title="Download CV" class="button button-primary" target="_blank">Download CV</a>
         </div>
     </div>
 
@@ -229,7 +229,45 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
+                        <i class="fa fa-briefcase"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <h3>Acumen Hub</h3>
+                        <p>January 2020 - Present</p>
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>Full Stack Developer</h4>
+                        <p>Acumen Hub is a Digital Marketing Agency that provides Digital Marketing solutions and consultation for companies and individuals.
+                            I'm working as a website designer and developer in their IT department. I build many creative, eye-catching, professional looking websites and learn about many new things.
+                        </p>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
+                <div class="timeline-block">
+                    <div class="timeline-ico">
+                        <i class="fa fa-briefcase"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <h3>High Tech Solutions</h3>
+                        <p>October 2019 - Present</p>
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>Senior Software Designer</h4>
+                        <p>High Tech Solutions is a Software Design and Consultancy Company.
+                            I have joined the company as a senior software architectural designer in project-based. I design many architectural structures, UML diagrams of web and desktop-based software for international clients. The goal of the company is to satisfy their customer according to their project requirement.
+                        </p>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
+                <div class="timeline-block">
+                    <div class="timeline-ico">
+                        <i class="fa fa-briefcase"></i>
                     </div>
 
                     <div class="timeline-header">
@@ -240,16 +278,18 @@
                     <div class="timeline-content">
                         <h4>Laravel Backend Developer</h4>
                         <p>Right after I graduated, I started working for backend developer. I developed a custom API's, bug fixing and cloning the websites into laravel.
-                            I also made a lot of custom made web sites/applications.
+                            I also made a lot of custom made websites/applications and learning a lot on frontend and backend knowledge.
+                            Similarly, I have learn Wix, Shopify design & development and make some websites on wix platform.
                         </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
 
+
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
+                        <i class="fa fa-briefcase"></i>
                     </div>
 
                     <div class="timeline-header">
@@ -259,8 +299,8 @@
 
                     <div class="timeline-content">
                         <h4>Teacher Assistant</h4>
-                        <p>Conducting the programming fundamental lab and helping the students to better understanding the coding concepts.
-                        I also learn many new things, this may help to improve my skills and knowledge. </p>
+                        <p>It is a six-month teacher assistant job of my last year in university. Conducting the programming fundamental lab and helping the students for better understanding the coding concepts.
+                            I also learn many new concepts and ideas from the students, this may help to improve my skills and knowledge, also enhance my time management, task scheduling, personality development, and interpersonal skill sets. </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -268,7 +308,7 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
+                        <i class="fa fa-briefcase"></i>
                     </div>
 
                     <div class="timeline-header">
@@ -278,9 +318,9 @@
 
                     <div class="timeline-content">
                         <h4>Social Work</h4>
-                        <p>SOS is an independent organization provides the quality care for completely orphans or social orphans children who can no longer live with their parents.
-                            I have experience for working as a volunteer
-                            team lead of collecting donation and help that Children.</p>
+                        <p>SOS is an independent organization that provides quality care for completely orphans or social orphans children who can no longer live with their parents.
+                            I have experience of working as a volunteer
+                            team lead of collecting donations from different universities and provides the daily basic needed home usage things for helping those children.</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -306,19 +346,17 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
+                        <i class="fa fa-graduation-cap"></i>
                     </div>
 
                     <div class="timeline-header">
-                        <h3>University of Management and Technology</h3>
+                        <h3>Bachelor (Computer Science)</h3>
                         <p>October 2013 - December 2018</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Bachelor (Computer Science)</h4>
-                        <p>The education was mainly based on programming and mathematics, but I also learned about SQL, PHP, MVC and more.
-                            During my time in university, I specialized in WebDevelopment. Here I learned about the importance of OOP, web- and user experience and design.
-                        </p>
+                        <h4>University of Management and Technology</h4>
+                        <p>The education was mainly based on programming and mathematics, but I have learned more related to web technologies like PHP, SQL, MVC and more. During my time in university, I specialized in web development. Here I learned about the importance of OOP, web- and user experience and design.</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -326,22 +364,18 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
+                        <i class="fa fa-graduation-cap"></i>
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Superior Group of Colleges</h3>
+                        <h3>Intermediate (Pre-Engineering)</h3>
                         <p>August 2011 - May 2013</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Intermediate (Pre-Engineering)</h4>
+                        <h4>Superior Group of Colleges</h4>
                         <p>
-                            I graduated from college, where I studies math,physics and chemistry major.
-                            I realized in my final years that I'm going in the wrong way my interest is in
-                            computer and technology
-                            I have self learning picture, video editing and making the HTML web pages.
-
+                            I graduated from college, where I study maths, physics and chemistry major. I realized in my final years that I'm going in the wrong way my interest is in computer and technology I have self-learning picture, video editing and making the HTML web pages.
                         </p>
                     </div>
 
@@ -350,7 +384,7 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
+                        <i class="fa fa-graduation-cap"></i>
                     </div>
 
                     <div class="timeline-header">
@@ -360,10 +394,7 @@
 
                     <div class="timeline-content">
                         <h4>Sheikh Zayed Public School</h4>
-                        <p>I passout high school, where I enjoyed doing science, math, biology and arts.
-                            In the age of twelve i have making digital drawing on paint in windows98 and playing games
-                            thats make me facinated how computer works and spend most of the time designing and playing thats
-                            helping to develop my interest.
+                        <p>I pass out high school, where I enjoyed doing science, math, biology and arts. At the age of twelve I have to make the digital drawing on paint in windows98 and playing games that make me fascinated by how computer works and spend most of the time designing or drawing in paint and playing that's helped to develop my interest in the field of computer science.
                         </p>
                     </div>
 
@@ -378,7 +409,9 @@
 </section> <!-- /features -->
 
 
-<!-- Portfolio Section
+
+
+<!-- Portfolio Section original
 ================================================== -->
 <section id="portfolio">
 
@@ -528,6 +561,8 @@
 
 </section> <!-- /portfolio -->
 
+
+
 <!-- stats Section
 ================================================== -->
 
@@ -573,8 +608,8 @@
 
             <h5>Email Me At</h5>
 
-            <p>fouzanvictor@gmail.com<br>
-                fs94pk@gmail.com
+            <p><a href="mailto:fouzanvictor@gmail.com" target="_blank" style="color: white">fouzanvictor@gmail.com </a> <br>
+                fouzansaleem@yahoo.com
             </p>
 
         </div>
@@ -587,8 +622,8 @@
 
             <h5>Call Me At</h5>
 
-            <p>Phone: (+92) 301 678 5565<br>
-                Mobile: (+92) 332 963 3733<br>
+            <p> <a href="tel:+923016785565" style="color: white">Phone: (+92) 301 678 5565</a><br>
+                <a href="tel:+923329633733" style="color: white"> Mobile: (+92) 332 963 3733 </a><br>
             </p>
 
         </div>
@@ -611,6 +646,8 @@
                 <li><a href="https://www.facebook.com/fouzansaleem"target="_blank"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="https://pk.linkedin.com/in/fouzan-saleem-052988150"target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fa fa-instagram"></i></a></li>
+{{--                <li><a href="https://www.instagram.com/fouzansaleem/"target="_blank"><i class="fab fa-whatsapp"aria-hidden="true"></i></a></li>--}}
+
             </ul>
 
         </div>

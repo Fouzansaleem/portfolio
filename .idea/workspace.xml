@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b9ce50-0fdb-4b2b-bd8c-ae401a557e3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Fouzan_Saleem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.cHVibGljcw.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/beetle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/clouds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/liberty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/lighthouse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-beetle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-clouds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-liberty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-lighthouse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-salad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/m-shutterbug.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/salad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/shutterbug.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/profile-pic1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sample-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/modals/petrochemical.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portfolio/modals/petrochemical.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +30,77 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="590" column="46" selection-start-line="590" selection-start-column="46" selection-end-line="590" selection-end-column="46" />
+            <state relative-caret-position="169">
+              <caret line="649" column="12" selection-start-line="649" selection-start-column="12" selection-end-line="649" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cv/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="382" selection-start-line="382" selection-end-line="529" />
+              <folding>
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.605/kards-master/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6069" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Ceevee10/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1494">
+              <caret line="290" selection-start-line="290" selection-end-line="290" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="289" selection-start-line="289" selection-end-line="289" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1879" column="29" selection-start-line="1879" selection-start-column="29" selection-end-line="1879" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fa</find>
+      <find>fa-</find>
+      <find>bread</find>
+      <find>portfolio-wr</find>
+      <find>portfolio-c</find>
+      <find>portfolio-</find>
+      <find>row</find>
+      <find>portfolio-l</find>
+      <find>portfolio</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,10 +111,14 @@
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
       </list>
     </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -150,18 +209,7 @@
       <path value="$PROJECT_DIR$/vendor/psr/container" />
     </include_path>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/portfolio.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/php.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="40" />
     <option name="width" value="1346" />
@@ -173,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,12 +243,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bagisto-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -242,16 +290,24 @@
       <workItem from="1572691970584" duration="8151000" />
       <workItem from="1573103570094" duration="37783000" />
       <workItem from="1573471978615" duration="15490000" />
+      <workItem from="1574177241252" duration="1218000" />
+      <workItem from="1574852155907" duration="18000" />
+      <workItem from="1584954121897" duration="17253000" />
+      <workItem from="1586180564645" duration="6169000" />
+      <workItem from="1586350479528" duration="8141000" />
+      <workItem from="1586434288672" duration="41000" />
+      <workItem from="1586439939901" duration="10528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92351000" />
+    <option name="totallyTimeSpent" value="135719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <frame x="10" y="40" width="1346" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25869894" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2636081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +320,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6497545" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6493056" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,13 +377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../kards-master/index.html" />
     <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php.html" />
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php" />
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -343,17 +393,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.619/Eterna/assets/css/style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.535/Eterna/portfolio.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="325" column="4" selection-start-line="325" selection-start-column="1" selection-end-line="325" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.481/Eterna/portfolio.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.880/Eterna/assets/css/style.css" />
+    <entry file="file://$USER_HOME$/Downloads/AMHW/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9871">
+          <caret line="19" column="70" lean-forward="true" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/BizPage/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/Ceevee10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1494">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.605/kards-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6069" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cv/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="382" selection-start-line="382" selection-end-line="529" />
+          <folding>
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2746">
-          <caret line="1236" column="24" selection-start-line="1236" selection-start-column="24" selection-end-line="1236" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="1879" column="29" selection-start-line="1879" selection-start-column="29" selection-end-line="1879" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="590" column="46" selection-start-line="590" selection-start-column="46" selection-end-line="590" selection-end-column="46" />
+        <state relative-caret-position="169">
+          <caret line="649" column="12" selection-start-line="649" selection-start-column="12" selection-end-line="649" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
